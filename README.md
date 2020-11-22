@@ -14,3 +14,7 @@ Download: https://visualstudio.microsoft.com/pt-br/
 # 📜Changelog
 
 O Painel Netflix recebe atualizações de acordo com seu desenvolvimento, com novos recursos, melhorias e bugfixes.
+
+# 📖 Como funciona
+
+::maker 
