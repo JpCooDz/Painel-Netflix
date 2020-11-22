@@ -4,3 +4,9 @@
 # Painel-Netflix
 
 Um projeto desenvolvio usando Visual Basic.
+
+# Requisito
+
+Visual Studio 
+Download: https://visualstudio.microsoft.com/pt-br/
+<strong>Baixe a última versão </strong>
