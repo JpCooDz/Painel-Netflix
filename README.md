@@ -17,4 +17,13 @@ O Painel Netflix recebe atualizações de acordo com seu desenvolvimento, com no
 
 # 📖 Como funciona
 
-li::maker OI 
+- 
+
+#:octocat: Créditos
+
+JpCooDz - desenvolvedor 
+
+# Links
+
+Discord: https://discord.gg/hssCewDj
+Facebook: https://www.facebook.com/joopedro.carcavaiagouveia/
