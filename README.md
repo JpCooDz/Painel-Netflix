@@ -3,7 +3,7 @@
 
 # Painel-Netflix
 
-Um projeto desenvolvio usando Visual Basic.
+Um projeto desenvolvido usando Visual Basic.
 
 # Requisito
 
