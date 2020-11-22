@@ -1,0 +1,14 @@
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\bin\Debug\Painel Netflix GITHUB.exe.config
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\bin\Debug\Painel Netflix GITHUB.exe
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\bin\Debug\Painel Netflix GITHUB.pdb
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\bin\Debug\Painel Netflix GITHUB.xml
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel Netflix GITHUB.vbprojAssemblyReference.cache
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel_Netflix_GITHUB.Form1.resources
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel_Netflix_GITHUB.Resources.resources
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel Netflix GITHUB.vbproj.GenerateResource.cache
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel Netflix GITHUB.vbproj.CoreCompileInputs.cache
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel Netflix GITHUB.exe
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel Netflix GITHUB.xml
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel Netflix GITHUB.pdb
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel_Netflix_GITHUB.Escolhertela.resources
+C:\Users\JpCooDz\source\repos\Painel Netflix GITHUB\Painel Netflix GITHUB\obj\Debug\Painel_Netflix_GITHUB.TELA1.resources
