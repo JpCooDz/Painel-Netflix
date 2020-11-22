@@ -4,7 +4,7 @@
 # Painel-Netflix
 
 Um projeto desenvolvido usando Visual Basic.
-<p>Codigo de alto login</p>
+<p>Codigo de auto login</p>
 <p>WebBrowser1.Document.GetElementById("id_userLoginId").SetAttribute("value", "EMAIL DA NETFLIX")
 WebBrowser1.Document.GetElementById("id_password").SetAttribute("value", "SENHA DA NETFLIX")
 WebBrowser1.Document.Forms(0).InvokeMember("submit")</p>
