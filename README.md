@@ -19,7 +19,7 @@ O Painel Netflix recebe atualizações de acordo com seu desenvolvimento, com no
 
 - 
 
-#:octocat: Créditos
+# :octocat: Créditos
 
 JpCooDz - desenvolvedor 
 
