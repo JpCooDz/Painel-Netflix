@@ -8,8 +8,8 @@ Um projeto desenvolvio usando Visual Basic.
 # Requisito
 
 Visual Studio 
-Download: https://visualstudio.microsoft.com/pt-br/
-<strong>Baixe a última versão </strong>
+<p>Download: https://visualstudio.microsoft.com/pt-br/</p>
+<p><strong>Baixe a última versão </strong></p>
 
 # 📜Changelog
 
@@ -25,5 +25,5 @@ JpCooDz - desenvolvedor
 
 # Links
 
-Discord: https://discord.gg/hssCewDj
-Facebook: https://www.facebook.com/joopedro.carcavaiagouveia/
+<p>Discord: https://discord.gg/hssCewDj</p>
+<p>Facebook: https://www.facebook.com/joopedro.carcavaiagouveia/</p>
