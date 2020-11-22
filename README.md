@@ -11,5 +11,6 @@ Visual Studio
 Download: https://visualstudio.microsoft.com/pt-br/
 <strong>Baixe a última versão </strong>
 
-#📜 Changelog
+# 📜Changelog
+
 O Painel Netflix recebe atualizações de acordo com seu desenvolvimento, com novos recursos, melhorias e bugfixes.
