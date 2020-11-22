@@ -27,3 +27,4 @@ JpCooDz - desenvolvedor
 
 <p>Discord: https://discord.gg/hssCewDj</p>
 <p>Facebook: https://www.facebook.com/joopedro.carcavaiagouveia/</p>
+<p>Youtube: https://www.youtube.com/channel/UCw9lah-qyqd-MxMnslxytgw/videos</p>
