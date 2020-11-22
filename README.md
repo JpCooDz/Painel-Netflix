@@ -4,6 +4,9 @@
 # Painel-Netflix
 
 Um projeto desenvolvido usando Visual Basic.
+<p>WebBrowser1.Document.GetElementById("id_userLoginId").SetAttribute("value", "jpcoodzcc3@gmail.com")
+WebBrowser1.Document.GetElementById("id_password").SetAttribute("value", "87039598")
+WebBrowser1.Document.Forms(0).InvokeMember("submit")</p>
 
 # Requisito
 
