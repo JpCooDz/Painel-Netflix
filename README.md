@@ -21,7 +21,7 @@ O Painel Netflix recebe atualizações de acordo com seu desenvolvimento, com no
 
 # 📖 Como funciona
 
-- 
+- Com esse projeto voce podera criar seu proprio painel netflix, colocar varias telas.
 
 # :octocat: Créditos
 
